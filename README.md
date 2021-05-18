@@ -1,19 +1,13 @@
-# head 1
-## head 2
-###  head 3
-#### head 4
-- welcome
+#  lists
 
-welcome to mic college
 
-"lists"
-"Unordered lists" 
-
-*item1
-*item2
-    *item a
-    *item b
-    
- **Ordered lists"
- *item 1
- *item 2
+ -Ordered List:
+   1.Item1
+   2.Item2
+   3.Item3
+   4.Item4
+ -Unorderd List:
+  *Item1
+  *Item2
+  *Item3
+  
